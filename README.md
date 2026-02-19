@@ -1,7 +1,7 @@
 ## Hi, I'm Rhushikesh 
 
 Computer Engineering student with a growing interest in  
-**Data Analytics, Data Science, and Python-based problem solving**
+**Data Analytics and Python-based problem solving**
 
 ---
 
@@ -17,8 +17,8 @@ Computer Engineering student with a growing interest in
 Python | Pandas | NumPy | Matplotlib | Git | SQL (learning)
 
 ---
+  
+### 📫 Connect with Me
 
-### Featured Work
-- UIDAI Hackathon Data Analysis
-- Python Data Analysis Projects (in progress)
-- Data Visualization Mini Projects
+[![Email](https://img.shields.io/badge/Email-rhushikeshchiplunkar2004%40gmail.com-blue?style=flat&logo=gmail)](mailto:rhushikeshchiplunkar2004@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rhushikesh%20Chiplunkar-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rhushikesh-chiplunkar-889390290)
