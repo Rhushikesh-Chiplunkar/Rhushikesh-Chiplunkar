@@ -1,11 +1,11 @@
-## Hi, I'm Rhushikesh 👋
+## Hi, I'm Rhushikesh 
 
 Computer Engineering student with a growing interest in  
 **Data Analytics, Data Science, and Python-based problem solving**
 
 ---
 
-### 📊 Current Focus
+### Current Focus
 - Python fundamentals for data analysis
 - Working with data using Pandas & NumPy
 - Data visualization using Matplotlib
@@ -13,12 +13,12 @@ Computer Engineering student with a growing interest in
 
 ---
 
-### 🛠 Skills & Tools
+### Skills & Tools
 Python | Pandas | NumPy | Matplotlib | Git | SQL (learning)
 
 ---
 
-### 📁 Featured Work
+### Featured Work
 - UIDAI Hackathon Data Analysis
 - Python Data Analysis Projects (in progress)
 - Data Visualization Mini Projects
